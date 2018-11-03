@@ -1,10 +1,9 @@
-# Flux 
+# Digital Nomad
 
-An application architecture for React
-
+Is it working?
 ---
 
-### Flux Design
+### Where to start
 
 - Dispatcher: Manages Data Flow
 - Stores: Handle State & Logic
